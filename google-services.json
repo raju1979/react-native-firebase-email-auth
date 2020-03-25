@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377987725971",
+    "firebase_url": "https://react-native-auth-4f16a.firebaseio.com",
+    "project_id": "react-native-auth-4f16a",
+    "storage_bucket": "react-native-auth-4f16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377987725971:android:96503fd24518499eadab66",
+        "android_client_info": {
+          "package_name": "com.hybridappwal.reactsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377987725971-7all17c7870jbi9r7v0m7p8e0litobsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmB0oRtkgVInLSMlgMV2Nfd5p1supvLFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377987725971-7all17c7870jbi9r7v0m7p8e0litobsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
