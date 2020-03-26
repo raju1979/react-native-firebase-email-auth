@@ -3,7 +3,7 @@ import { TouchableOpacity, ImageBackground, StyleSheet, View } from "react-nativ
 import { Container, Header, Content, Card, CardItem, Body, Text, Button, Input, Item, Form, Label, Icon, Toast } from 'native-base';
 
 
-import firebase from 'firebase';
+import {Firebase as firebase} from '../config';
 
 import bgImage from '../images/bg.jpg';
 
